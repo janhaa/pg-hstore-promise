@@ -1,3 +1,5 @@
+# WORK IN PROGRESS
+
 [![Build Status](https://travis-ci.org/scarney81/pg-hstore.png)](https://travis-ci.org/[YOUR_GITHUB_USERNAME]/[YOUR_PROJECT_NAME])
 
 pg-hstore
